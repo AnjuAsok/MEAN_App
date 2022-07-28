@@ -1,0 +1,26 @@
+{
+  "name": "mean_app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "start": "node server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AnjuAsok/MEAN_App.git"
+  },
+  "author": "Anju Asok",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AnjuAsok/MEAN_App/issues"
+  },
+  "homepage": "https://github.com/AnjuAsok/MEAN_App#readme",
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "cores": "^0.8.5",
+    "express": "^4.18.1",
+    "mongoose": "^6.5.0"
+  }
+}
